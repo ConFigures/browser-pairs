@@ -41,7 +41,7 @@ body {
 
 /* The #gameStats element is the header bar at the top of the game */
 #gameStats {
-  display: none;
+  display: Book Matching;
 }
 
 #game.play #gameStats {
