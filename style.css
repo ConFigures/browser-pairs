@@ -130,7 +130,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(./images/start.png) center center no-repeat;
+  background: url(http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) center center no-repeat;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
