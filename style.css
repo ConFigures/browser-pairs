@@ -101,14 +101,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
+.fx {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
+.cr {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
+.sf {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
+.op {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
+.ns {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
+.tb {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
+.fm {background: url(./http://4.bp.blogspot.com/-uebHFBJ5u-s/TyHTzXDnTHI/AAAAAAAAAEE/NwfFgxARy3I/s1600/Book4.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
