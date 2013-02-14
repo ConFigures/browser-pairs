@@ -5,7 +5,7 @@ by the Mozilla Taiwan Community. This version has been modified to fit on
 screens with smaller resolutions, and comments have been added to make
 the code more self-explanatory.
 
-See also [http://lukasblakk.com/creating-a-mozilla-workshop-for-beginner-hacking-of-mobile-html5-games/] 
+See also http://lukasblakk.com/creating-a-mozilla-workshop-for-beginner-hacking-of-mobile-html5-games/
 where I came across the original game.
 
 
