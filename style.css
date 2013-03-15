@@ -9,6 +9,7 @@ a {
   color: #DA4930;
 }
 
+/* Change background-image URL for different background during game */
 body {
   text-align: center;
   background-image:url('http://sarahelkins.org/images/SARAH_13.jpg');
@@ -94,9 +95,8 @@ body {
   cursor: pointer;
 }
 
-/* These styles create the images on the cards. We're using a path to the images
-   included in a directory in our game, but you can also use an image that is
-   hosted anyhwere on the internet by using its url in the "url()" rule. */
+/* These styles create the images on the cards. Change any line to an image 
+   hosted anyhwere on the internet by changing its url in the "url()" rule. */
 .ie {background: url(http://sarahelkins.org/pix/penguicon07/redmononose_01.jpg) no-repeat; background-size: contain;}
 .fx {background: url(http://sarahelkins.org/pix/penguicon07/redmono_01.jpg) no-repeat; background-size: contain;}
 .cr {background: url(http://sarahelkins.org/pix/penguicon07/DeathStar_02.jpg) no-repeat; background-size: contain;}
