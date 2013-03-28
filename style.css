@@ -98,13 +98,13 @@ body {
 /* These styles create the images on the cards. Change any line to an image 
    hosted anyhwere on the internet by changing its url in the "url()" rule. */
 .ie {background: url(http://sarahelkins.org/pix/penguicon07/redmononose_01.jpg) no-repeat; background-size: contain;}
-.fx {background: url(http://sarahelkins.org/pix/penguicon07/redmono_01.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://sarahelkins.org/pix/pconpuppet.jpg) no-repeat; background-size: contain;}
 .cr {background: url(http://sarahelkins.org/pix/penguicon07/DeathStar_02.jpg) no-repeat; background-size: contain;}
 .sf {background: url(http://sarahelkins.org/pix/MadScience/lava.jpg) no-repeat; background-size: contain;}
-.op {background: url(http://sarahelkins.org/pix/Greenfield/td8.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://sarahelkins.org/pix/rose.jpg) no-repeat; background-size: contain;}
 .ns {background: url(http://sarahelkins.org/pix/RenPy/CIMG0045.jpg) no-repeat; background-size: contain;}
-.tb {background: url(http://sarahelkins.org/pix/Christmas2006/Xoctopus.jpg) no-repeat; background-size: contain;}
-.fm {background: url(http://2.bp.blogspot.com/-92FZb3NVFuY/T_CEdYrc0jI/AAAAAAAAAJ8/68o5Sf7OYCU/s1600/HeistSociety.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://sarahelkins.org/pix/cherry.jpg) no-repeat; background-size: contain;}
+.fm {background: url(sarahelkins.org/pix/pconLN2.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
