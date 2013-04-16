@@ -3,7 +3,7 @@ BrowserPairs
 Play this game as-is: http://configures.github.io/browser-pairs/
 
 Did you know GitHub.com hosts web games as well as open source repositories?  You can personalize and play this game!
-Just follow the instructions at HOWTOMOD.md (in this same repository).
+Just follow the instructions at [HOWTOMOD.md in this same repository](https://github.com/ConFigures/browser-pairs/blob/gh-pages/HOWTOMOD.md).
 
 This is a simplified version of a HTML5 pairs game originally created by the Mozilla Taiwan Community. This version has been modified to fit on
 screens with smaller resolutions, and comments have been added to make the code more self-explanatory.
