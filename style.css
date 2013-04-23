@@ -12,7 +12,7 @@ a {
 /* Change background-image URL for different background during game */
 body {
   text-align: center;
-  background-image:url('http://sarahelkins.org/images/SARAH_13.jpg');
+  background-image:url('http://sarahelkins.org/pix/Pcon-light-1920x1080.jpg');
   background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;
   color: #DA4930;
   font-family:"Times New Roman"
@@ -97,11 +97,11 @@ body {
 
 /* These styles create the images on the cards. Change any line to an image 
    hosted anyhwere on the internet by changing its url in the "url()" rule. */
-.ie {background: url(http://sarahelkins.org/pix/penguicon07/redmononose_01.jpg) no-repeat; background-size: contain;}
+.ie {background: url(http://sarahelkins.org/pix/pconredmononose.jpg) no-repeat; background-size: contain;}
 .fx {background: url(http://sarahelkins.org/pix/pconpuppet.jpg) no-repeat; background-size: contain;}
-.cr {background: url(http://sarahelkins.org/pix/penguicon07/DeathStar_02.jpg) no-repeat; background-size: contain;}
-.sf {background: url(http://sarahelkins.org/pix/MadScience/lava.jpg) no-repeat; background-size: contain;}
-.op {background: url(http://sarahelkins.org/pix/rose.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://sarahelkins.org/pix/pconDeathStar.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://sarahelkins.org/pix/pconlava.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://sarahelkins.org/pix/pconBuildingBlocks.jpg) no-repeat; background-size: contain;}
 .ns {background: url(http://sarahelkins.org/pix/RenPy/CIMG0045.jpg) no-repeat; background-size: contain;}
 .tb {background: url(http://sarahelkins.org/pix/cherry.jpg) no-repeat; background-size: contain;}
 .fm {background: url(http://sarahelkins.org/pix/pconLN2.jpg) no-repeat; background-size: contain;}
