@@ -14,6 +14,7 @@ Illustrated by [ECBp](http://blog.yam.com/ECBp/article/44076465)
 licensed under [CC:BY-NC-SA-3.0-TW](http://creativecommons.org/licenses/by-nc-sa/3.0/tw/)
 
 Background image by Scott Kennedy
+Card backs by Sarah Elkins and Matt Arnold
 
 Music  
 Mozilla-Blues, composed by [MGdesigner](http://magicdesign.blogspot.com/)  
